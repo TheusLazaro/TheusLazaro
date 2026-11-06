@@ -1,45 +1,24 @@
-<p align="left">Hello World!!<br><br>Meu nome é Matheus, sou Desenvolvedor de Software Estagiário com foco no ecossistema Java e Spring Boot. Atualmente, participo do programa de formação de desenvolvedores do Agi, onde aplico meus conhecimentos na construção de soluções full-stack.<br><br>Minha principal experiência recente foi o desenvolvimento de um sistema de gerenciamento de contas bancárias, criando uma API RESTful robusta com Spring Boot no back-end e uma interface dinâmica e reativa com React no front-end. Também tenho experiência com Python e Pandas para manipulação de dados.</p>
+# Hi, I'm Matheus 👋
 
-###
+**Software Engineer in Test** · Java backend · Brazil 🇧🇷
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-</div>
+I build and test systems in Java.
 
-###
+### What I do
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheusLazaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=TheusLazaro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=TheusLazaro&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+- 🧪 **Quality engineering that writes production-grade code:** I keep 97%+ of mutants killed across all of my squad's projects, and I write contract, performance (k6, JMeter) and resilience tests.
+- ⚙️ **Backend Java:** I built a daily batch almost entirely on my own. It processes contracts, stores them in MongoDB and reprocesses them based on bank return files.
+- 📨 **Event-driven systems:** I build and test flows across Kafka, RabbitMQ and gRPC services.
+- 🤖 **AI in the workflow:** I orchestrate Claude agents for test design, analysis and architecture docs.
 
-###
+### Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheusLazaro/TheusLazaro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheusLazaro/TheusLazaro/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheusLazaro/TheusLazaro/output/github-contribution-grid-snake.svg">
-</picture>
+**Languages & frameworks:** Java 21 · Spring Boot · Spring Security · JPA/Hibernate
+**Messaging & APIs:** Kafka · RabbitMQ · gRPC · REST
+**Data:** PostgreSQL · Oracle · MySQL · MongoDB · Presto
+**Testing:** JUnit 5 · Mockito · WireMock · RestAssured · TestNG · Testcontainers · Pitest · k6 · JMeter
+**Infra & observability:** Docker · Kubernetes · GitLab CI / GitHub Actions · OpenTelemetry · Grafana
 
-###
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/matheuslazaro7863) · 🇧🇷 Portuguese / 🇺🇸 English (C1)
