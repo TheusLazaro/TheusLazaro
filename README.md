@@ -14,9 +14,13 @@ I build and test systems in Java.
 ### Stack
 
 **Languages & frameworks:** Java 21 · Spring Boot · Spring Security · JPA/Hibernate
+
 **Messaging & APIs:** Kafka · RabbitMQ · gRPC · REST
+
 **Data:** PostgreSQL · Oracle · MySQL · MongoDB · Presto
+
 **Testing:** JUnit 5 · Mockito · WireMock · RestAssured · TestNG · Testcontainers · Pitest · k6 · JMeter
+
 **Infra & observability:** Docker · Kubernetes · GitLab CI / GitHub Actions · OpenTelemetry · Grafana
 
 ### Reach me
